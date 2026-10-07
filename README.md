@@ -13,7 +13,7 @@ This project uses a synthetically generated dataset to train and compare four cl
 
 ## Dataset
 
-The dataset is generated inside the notebook (no external files needed) using NumPy with a fixed random seed for reproducibility.
+The dataset is generated inside the notebook (no external files needed) using NumPy with a fixed random seed for reproducibility. Random dataset generated. 
 
 Features:
 
